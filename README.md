@@ -5,4 +5,4 @@ This is my first simple Android project in Kotlin based on [**Developing Android
 
 ## Screenshots
 
-![DiceRoller  Phone](https://raw.githubusercontent.com/SamuelaAnastasi/DiceRollerKotlin/master/previews/preview.jpg)
+![DiceRoller  Phone](https://raw.githubusercontent.com/SamuelaAnastasi/DiceRollerKotlin/master/previews/preview.png)
